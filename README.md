@@ -1,1 +1,0 @@
-# Image-processing-tool-in-python
